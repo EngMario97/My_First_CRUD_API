@@ -1,4 +1,4 @@
-# Aula 4 - Conexão com banco de dados
+#   Conexão com banco de dados
 
 ### Documentação do [TypeORM](https://typeorm.io/#/)
 
